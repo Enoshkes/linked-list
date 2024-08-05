@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|c:\\users\\enosh.tsur\\source\\repos\\ds\\ds\\list\\elinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|solutionrelative:ds\\list\\elinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|c:\\users\\enosh.tsur\\source\\repos\\ds\\ds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|solutionrelative:ds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|c:\\users\\enosh.tsur\\source\\repos\\ds\\ds\\list\\enode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|solutionrelative:ds\\list\\enode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|c:\\users\\enosh.tsur\\source\\repos\\ds\\ds\\list\\elist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E837F-7ABF-47A0-8091-99FB9EB5E970}|DS\\DS.csproj|solutionrelative:ds\\list\\elist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ELinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\ELinkedList.cs",
+              "RelativeDocumentMoniker": "DS\\List\\ELinkedList.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\ELinkedList.cs",
+              "RelativeToolTip": "DS\\List\\ELinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:53:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EList.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\EList.cs",
+              "RelativeDocumentMoniker": "DS\\List\\EList.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\EList.cs",
+              "RelativeToolTip": "DS\\List\\EList.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:50:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ENode.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\ENode.cs",
+              "RelativeDocumentMoniker": "DS\\List\\ENode.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\List\\ENode.cs",
+              "RelativeToolTip": "DS\\List\\ENode.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:48:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\Program.cs",
+              "RelativeDocumentMoniker": "DS\\Program.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\DS\\DS\\Program.cs",
+              "RelativeToolTip": "DS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:47:50.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
